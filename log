@@ -1,0 +1,328 @@
+Fetching gem metadata from https://rubygems.org/.........
+Using bundler 2.4.8
+Using concurrent-ruby 1.2.2
+Using minitest 5.18.0
+Using public_suffix 5.0.1
+Using colorator 1.1.0
+Using ffi 1.15.5 (x64-mingw-ucrt)
+Using forwardable-extended 2.6.0
+Using gemoji 4.0.1
+Using google-protobuf 3.22.2 (x64-mingw-ucrt)
+Using rb-fsevent 0.11.2
+Using rexml 3.2.5
+Using liquid 4.0.4
+Using mercenary 0.4.0
+Using rouge 4.1.0
+Using safe_yaml 1.0.5
+Using unicode-display_width 2.4.2
+Using webrick 1.8.1
+Using jekyll-paginate 1.1.0
+Using pathutil 0.16.2
+Using addressable 2.8.1
+Using sass-embedded 1.59.3 (x64-mingw-ucrt)
+Using i18n 1.12.0
+Using tzinfo 2.0.6
+Using kramdown 2.4.0
+Using terminal-table 3.0.2
+Using jekyll-sass-converter 3.0.0
+Using activesupport 7.0.4.3
+Fetching kramdown-parser-gfm 1.1.0
+Using rb-inotify 0.10.1
+Using listen 3.8.0
+Using jekyll-watch 2.2.1
+Installing racc 1.6.2 with native extensions
+Installing http_parser.rb 0.8.0 with native extensions
+Installing eventmachine 1.2.7 with native extensions
+Installing kramdown-parser-gfm 1.1.0
+Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+current directory:
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/eventmachine-1.2.7/ext
+C:/msys64/ucrt64/bin/ruby.exe -I C:/msys64/ucrt64/lib/ruby/3.1.0 extconf.rb
+checking for -lcrypto... *** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=C:/msys64/ucrt64/bin/$(RUBY_BASE_NAME)
+	--with-ssl-dir
+	--without-ssl-dir
+	--with-ssl-include
+	--without-ssl-include=${ssl-dir}/include
+	--with-ssl-lib
+	--without-ssl-lib=${ssl-dir}/lib
+	--with-openssl-dir
+	--without-openssl-dir
+	--with-openssl-include
+	--without-openssl-include=${openssl-dir}/include
+	--with-openssl-lib
+	--without-openssl-lib=${openssl-dir}/lib
+	--with-openssl-config
+	--without-openssl-config
+	--with-pkg-config
+	--without-pkg-config
+	--with-crypto-dir
+	--without-crypto-dir
+	--with-crypto-include
+	--without-crypto-include=${crypto-dir}/include
+	--with-crypto-lib
+	--without-crypto-lib=${crypto-dir}/lib
+	--with-cryptolib
+	--without-cryptolib
+C:/msys64/ucrt64/lib/ruby/3.1.0/mkmf.rb:490:in `try_do': The compiler failed to
+generate an executable file. (RuntimeError)
+You have to install development tools first.
+	from C:/msys64/ucrt64/lib/ruby/3.1.0/mkmf.rb:583:in `try_link0'
+	from C:/msys64/ucrt64/lib/ruby/3.1.0/mkmf.rb:601:in `try_link'
+	from C:/msys64/ucrt64/lib/ruby/3.1.0/mkmf.rb:819:in `try_func'
+	from C:/msys64/ucrt64/lib/ruby/3.1.0/mkmf.rb:1062:in `block in have_library'
+	from C:/msys64/ucrt64/lib/ruby/3.1.0/mkmf.rb:989:in `block in checking_for'
+from C:/msys64/ucrt64/lib/ruby/3.1.0/mkmf.rb:354:in `block (2 levels) in
+postpone'
+	from C:/msys64/ucrt64/lib/ruby/3.1.0/mkmf.rb:324:in `open'
+	from C:/msys64/ucrt64/lib/ruby/3.1.0/mkmf.rb:354:in `block in postpone'
+	from C:/msys64/ucrt64/lib/ruby/3.1.0/mkmf.rb:324:in `open'
+	from C:/msys64/ucrt64/lib/ruby/3.1.0/mkmf.rb:350:in `postpone'
+	from C:/msys64/ucrt64/lib/ruby/3.1.0/mkmf.rb:988:in `checking_for'
+	from C:/msys64/ucrt64/lib/ruby/3.1.0/mkmf.rb:1057:in `have_library'
+	from extconf.rb:8:in `block in check_libs'
+	from extconf.rb:8:in `all?'
+	from extconf.rb:8:in `check_libs'
+	from extconf.rb:95:in `<main>'
+
+To see why this extension failed to compile, please check the mkmf.log which can
+be found here:
+
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/extensions/x64-mingw-ucrt/3.1.0/eventmachine-1.2.7/mkmf.log
+
+extconf failed, exit code 1
+
+Gem files will remain installed in
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/eventmachine-1.2.7 for inspection.
+Results logged to
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/extensions/x64-mingw-ucrt/3.1.0/eventmachine-1.2.7/gem_make.out
+
+  C:/msys64/ucrt64/lib/ruby/3.1.0/rubygems/ext/builder.rb:102:in `run'
+  C:/msys64/ucrt64/lib/ruby/3.1.0/rubygems/ext/ext_conf_builder.rb:28:in `build'
+C:/msys64/ucrt64/lib/ruby/3.1.0/rubygems/ext/builder.rb:171:in
+`build_extension'
+C:/msys64/ucrt64/lib/ruby/3.1.0/rubygems/ext/builder.rb:205:in `block in
+build_extensions'
+  C:/msys64/ucrt64/lib/ruby/3.1.0/rubygems/ext/builder.rb:202:in `each'
+C:/msys64/ucrt64/lib/ruby/3.1.0/rubygems/ext/builder.rb:202:in
+`build_extensions'
+C:/msys64/ucrt64/lib/ruby/3.1.0/rubygems/installer.rb:843:in
+`build_extensions'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/rubygems_gem_installer.rb:72:in
+`build_extensions'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/rubygems_gem_installer.rb:28:in
+`install'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/source/rubygems.rb:200:in
+`install'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/installer/gem_installer.rb:54:in
+`install'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/installer/gem_installer.rb:16:in
+`install_from_spec'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/installer/parallel_installer.rb:156:in
+`do_install'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/installer/parallel_installer.rb:147:in
+`block in worker_pool'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/worker.rb:62:in
+`apply_func'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/worker.rb:57:in
+`block in process_queue'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/worker.rb:54:in
+`loop'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/worker.rb:54:in
+`process_queue'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/worker.rb:90:in
+`block (2 levels) in create_threads'
+
+An error occurred while installing eventmachine (1.2.7), and Bundler cannot
+continue.
+
+In Gemfile:
+  jekyll-sitemap was resolved to 1.4.0, which depends on
+    jekyll was resolved to 4.3.2, which depends on
+      em-websocket was resolved to 0.5.3, which depends on
+        eventmachine
+
+
+Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+current directory:
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+C:/msys64/ucrt64/bin/ruby.exe -I C:/msys64/ucrt64/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory:
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230318-6368-swlf9p
+sitelibdir\=./.gem.20230318-6368-swlf9p clean
+current directory:
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230318-6368-swlf9p
+sitelibdir\=./.gem.20230318-6368-swlf9p
+make failedNo such file or directory - make
+
+Gem files will remain installed in
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/http_parser.rb-0.8.0 for inspection.
+Results logged to
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/extensions/x64-mingw-ucrt/3.1.0/http_parser.rb-0.8.0/gem_make.out
+
+  C:/msys64/ucrt64/lib/ruby/3.1.0/rubygems/ext/builder.rb:77:in `rescue in run'
+  C:/msys64/ucrt64/lib/ruby/3.1.0/rubygems/ext/builder.rb:74:in `run'
+  C:/msys64/ucrt64/lib/ruby/3.1.0/rubygems/ext/builder.rb:51:in `block in make'
+  C:/msys64/ucrt64/lib/ruby/3.1.0/rubygems/ext/builder.rb:43:in `each'
+  C:/msys64/ucrt64/lib/ruby/3.1.0/rubygems/ext/builder.rb:43:in `make'
+  C:/msys64/ucrt64/lib/ruby/3.1.0/rubygems/ext/ext_conf_builder.rb:42:in `build'
+C:/msys64/ucrt64/lib/ruby/3.1.0/rubygems/ext/builder.rb:171:in
+`build_extension'
+C:/msys64/ucrt64/lib/ruby/3.1.0/rubygems/ext/builder.rb:205:in `block in
+build_extensions'
+  C:/msys64/ucrt64/lib/ruby/3.1.0/rubygems/ext/builder.rb:202:in `each'
+C:/msys64/ucrt64/lib/ruby/3.1.0/rubygems/ext/builder.rb:202:in
+`build_extensions'
+C:/msys64/ucrt64/lib/ruby/3.1.0/rubygems/installer.rb:843:in
+`build_extensions'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/rubygems_gem_installer.rb:72:in
+`build_extensions'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/rubygems_gem_installer.rb:28:in
+`install'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/source/rubygems.rb:200:in
+`install'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/installer/gem_installer.rb:54:in
+`install'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/installer/gem_installer.rb:16:in
+`install_from_spec'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/installer/parallel_installer.rb:156:in
+`do_install'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/installer/parallel_installer.rb:147:in
+`block in worker_pool'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/worker.rb:62:in
+`apply_func'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/worker.rb:57:in
+`block in process_queue'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/worker.rb:54:in
+`loop'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/worker.rb:54:in
+`process_queue'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/worker.rb:90:in
+`block (2 levels) in create_threads'
+
+An error occurred while installing http_parser.rb (0.8.0), and Bundler cannot
+continue.
+
+In Gemfile:
+  jekyll-sitemap was resolved to 1.4.0, which depends on
+    jekyll was resolved to 4.3.2, which depends on
+      em-websocket was resolved to 0.5.3, which depends on
+        http_parser.rb
+
+
+Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+current directory:
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/racc-1.6.2/ext/racc/cparse
+C:/msys64/ucrt64/bin/ruby.exe -I C:/msys64/ucrt64/lib/ruby/3.1.0 extconf.rb
+checking for rb_block_call()... *** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=C:/msys64/ucrt64/bin/$(RUBY_BASE_NAME)
+C:/msys64/ucrt64/lib/ruby/3.1.0/mkmf.rb:490:in `try_do': The compiler failed to
+generate an executable file. (RuntimeError)
+You have to install development tools first.
+	from C:/msys64/ucrt64/lib/ruby/3.1.0/mkmf.rb:583:in `try_link0'
+	from C:/msys64/ucrt64/lib/ruby/3.1.0/mkmf.rb:601:in `try_link'
+	from C:/msys64/ucrt64/lib/ruby/3.1.0/mkmf.rb:812:in `try_func'
+	from C:/msys64/ucrt64/lib/ruby/3.1.0/mkmf.rb:1116:in `block in have_func'
+	from C:/msys64/ucrt64/lib/ruby/3.1.0/mkmf.rb:989:in `block in checking_for'
+from C:/msys64/ucrt64/lib/ruby/3.1.0/mkmf.rb:354:in `block (2 levels) in
+postpone'
+	from C:/msys64/ucrt64/lib/ruby/3.1.0/mkmf.rb:324:in `open'
+	from C:/msys64/ucrt64/lib/ruby/3.1.0/mkmf.rb:354:in `block in postpone'
+	from C:/msys64/ucrt64/lib/ruby/3.1.0/mkmf.rb:324:in `open'
+	from C:/msys64/ucrt64/lib/ruby/3.1.0/mkmf.rb:350:in `postpone'
+	from C:/msys64/ucrt64/lib/ruby/3.1.0/mkmf.rb:988:in `checking_for'
+	from C:/msys64/ucrt64/lib/ruby/3.1.0/mkmf.rb:1115:in `have_func'
+	from extconf.rb:6:in `<main>'
+
+To see why this extension failed to compile, please check the mkmf.log which can
+be found here:
+
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/extensions/x64-mingw-ucrt/3.1.0/racc-1.6.2/mkmf.log
+
+extconf failed, exit code 1
+
+Gem files will remain installed in
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/racc-1.6.2 for inspection.
+Results logged to
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/extensions/x64-mingw-ucrt/3.1.0/racc-1.6.2/gem_make.out
+
+  C:/msys64/ucrt64/lib/ruby/3.1.0/rubygems/ext/builder.rb:102:in `run'
+  C:/msys64/ucrt64/lib/ruby/3.1.0/rubygems/ext/ext_conf_builder.rb:28:in `build'
+C:/msys64/ucrt64/lib/ruby/3.1.0/rubygems/ext/builder.rb:171:in
+`build_extension'
+C:/msys64/ucrt64/lib/ruby/3.1.0/rubygems/ext/builder.rb:205:in `block in
+build_extensions'
+  C:/msys64/ucrt64/lib/ruby/3.1.0/rubygems/ext/builder.rb:202:in `each'
+C:/msys64/ucrt64/lib/ruby/3.1.0/rubygems/ext/builder.rb:202:in
+`build_extensions'
+C:/msys64/ucrt64/lib/ruby/3.1.0/rubygems/installer.rb:843:in
+`build_extensions'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/rubygems_gem_installer.rb:72:in
+`build_extensions'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/rubygems_gem_installer.rb:28:in
+`install'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/source/rubygems.rb:200:in
+`install'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/installer/gem_installer.rb:54:in
+`install'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/installer/gem_installer.rb:16:in
+`install_from_spec'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/installer/parallel_installer.rb:156:in
+`do_install'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/installer/parallel_installer.rb:147:in
+`block in worker_pool'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/worker.rb:62:in
+`apply_func'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/worker.rb:57:in
+`block in process_queue'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/worker.rb:54:in
+`loop'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/worker.rb:54:in
+`process_queue'
+C:/msys64/ucrt64/lib/ruby/gems/3.1.0/gems/bundler-2.4.8/lib/bundler/worker.rb:90:in
+`block (2 levels) in create_threads'
+
+An error occurred while installing racc (1.6.2), and Bundler cannot continue.
+
+In Gemfile:
+  jemoji was resolved to 0.13.0, which depends on
+    html-pipeline was resolved to 2.14.3, which depends on
+      nokogiri was resolved to 1.14.2, which depends on
+        racc
