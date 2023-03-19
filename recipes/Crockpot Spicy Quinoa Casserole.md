@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Crockpot Spicy Quinoa Casserole"
+date:   2023-03-18
+categories: recipes
+---
 Ingredients
 --
 * 1 Cup Quinoa, Uncooked
