@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Meatballs"
+title:  "Shakshuka"
 date:   2023-03-20
 categories: recipes
 ---
