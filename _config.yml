@@ -7,9 +7,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Joe Brunner # add your name
-author-img: joe-brunner.jpg # add your photo
-about-author: I'm Joe Brunner and this is where I collect my recipes.
+author: The Brunner Family # add your name
+author-img: the-ladies.jpg # add your photo
+about-author: This is where the Brunner Family collects their recipes.
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: # add your Github handle
