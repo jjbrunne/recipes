@@ -1,2 +1,12 @@
 <!-- Main Js -->
 <script src="{{site.baseurl}}/assets/js/main.js"></script>
+<!-- Search -->
+<script src="https://cdn.rawgit.com/christian-fei/Simple-Jekyll-Search/master/dest/simple-jekyll-search.min.js"></script>
+<script type="text/javascript">
+window.simpleJekyllSearch = SimpleJekyllSearch({
+	searchInput: document.getElementById('search-input'),
+	resultsContainer: document.getElementById('results-container'),
+	json: '/search.json',
+})
+</script>
+
