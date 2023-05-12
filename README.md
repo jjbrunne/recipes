@@ -35,7 +35,8 @@ The project itself is stored in Github.
 	2. Posts must be named like `YYYY-MM-DD-<name>.md`
 	3. NOTE: Obsidian will hide the `.md` extension
 5. Build locally
-	1. `jekyll`
+	1. `jekyll build`
+	2. 
 6. Test locally 
 	1. `jekyll serve`
 	2. Browse to: http://localhost:4000
