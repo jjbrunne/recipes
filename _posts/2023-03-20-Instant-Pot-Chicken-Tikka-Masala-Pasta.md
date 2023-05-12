@@ -17,13 +17,18 @@ Ingredients
 * 1 teaspoon garam masala
 * 1 teaspoon salt, adjust to taste
 
+*Spices for Sauce*
+* 1/2 teaspoon Garam masala
+* 1 teaspoon Kashmiri red chili powder (adjust to taste)
+* 1/2 teaspoon Tumeric
+
 *Meal*
 * 2 tablespoon ghee or oil, divided
 * 1 cup onion, finely diced
 * 1 teaspoon ginger, grated
 * 1 teaspoon garlic, minced
 * 2 cup water
-* 8 ounces dpaghetti or another pasta
+* 8 ounces spaghetti or another pasta
 * 1 cup tomato puree, canned
 * ½ cup heavy cream or more for creamier texture
 * 1 tablespoon dried fenugreek leaves (Kasoori Methi), optional
