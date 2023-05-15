@@ -59,4 +59,6 @@ Notes
 
 
 > **Meal prep:** Wrap sandwiches in saran wrap, or store in to-go containers, for quick and easy to-go snacks or lunches.
+
+
 ![Nicoise Sandwich](/assets/img/nicoise-sandwich/vegetarian-pan-bagnat-9.jpg)
