@@ -24,12 +24,19 @@ Ingredients
 Instructions
 --
 
+![Nicoise Sandwich](/assets/img/nicoise-sandwich/best-veggie-pan-bagnat-nicoise-salad-sandwich_8.jpg)
+
 *HOW TO MAKE WHITE BEAN NICOISE SALAD*
 
 1. In a small bowl, whisk together the olive oil, dijon and lemon juice.
 2. In a medium to large bowl, roughly mash about 1/2 of the beans with the back of a fork. Feel free to leave them whole.
 3. Add the onion, olives, artichoke, green beans, red bell pepper, pepperoncini, salt, and pepper.
 4. Pour the dressing overtop and mix well.
+
+
+
+![Making the Salad](/assets/img/nicoise-sandwich/white-bean-nicoise-recipe.jpg)
+
 
 *HOW TO MAKE VEGGIE PAN BAGNAT*
 
@@ -40,15 +47,16 @@ This is a double batch.
 3. Add tomatoes across the top and layer the basil leaves, and finish off with a sprinkle of mineral salt & cracked pepper and remaining slice.
 4. Lastly, wrap your sandwich tightly in saran wrap, fold ends under and press with a few heavy books, pot or other flat object. This helps the bread soak up the moisture of the salad dressing making for ‘_bathing the bread_‘.
 5. **Be sure to press.** Pressing this sandwich allows the vinaigrette to season the entire sandwich and softens the crusty bread. This is an important part for prepping your sandwich, and will also keep it from being very messy and falling all over. I suggest at least 1 hour, although overnight is even better.
+![Nicoise Sandwich](/assets/img/nicoise-sandwich/veggie-pan-bagnat-niciose.jpg)
 
+![Nicoise Sandwich](/assets/img/nicoise-sandwich/pan-bagnat-vegetarian-nicoise-salad-sandwich-1.jpg)
 
 Notes
 --
 
 
-> [!NOTE] Storage
-> **Refrigerator:** Sandwiches can be stored in the refrigerator for up to 3 – 4 days. Leftover nicoise salad can be stored for 5 – 6 days.
+>  **Storage**: Sandwiches can be stored in the refrigerator for up to 3 – 4 days. Leftover nicoise salad can be stored for 5 – 6 days.
 
 
-> [!NOTE] Travel
 > **Meal prep:** Wrap sandwiches in saran wrap, or store in to-go containers, for quick and easy to-go snacks or lunches.
+![Nicoise Sandwich](/assets/img/nicoise-sandwich/vegetarian-pan-bagnat-9.jpg)
