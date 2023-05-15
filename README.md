@@ -36,11 +36,16 @@ The project itself is stored in Github.
 	3. NOTE: Obsidian will hide the `.md` extension
 5. Build locally
 	1. `jekyll build`
-	2. 
 6. Test locally 
 	1. `jekyll serve`
 	2. Browse to: http://localhost:4000
-7. Deploy
+7. Deploy - *Obsidian/Git*
+	1. Install the *Obsidian Git* plugin.
+	2. Configure your credentials
+	3. Edit directly on your primary branch (`master`, or `main`)
+	4. Use the Obsidian Git command `Create backup`, which will automatically commit all local files and push to your Github primary branch
+	5. Netlify will automatically deploy your site. 
+8. **DEPRECATED:** ****Deploy - *Manual*
 	1. Commit your code
 		1. `git add .`
 		2. `git commit`
@@ -51,4 +56,6 @@ The project itself is stored in Github.
 	3. Watch the tests to verify that Netlify built it successfully
 		1. This will generate a preview deployment that you can review
 	4. Browse to netlify and finalize the deployment
-8. Verify the deployment by browsing to the site!
+9. View the deployments here:
+	1. https://app.netlify.com/sites/silly-seahorse-90f463/deploys/
+10. Verify the deployment by browsing to the site!
