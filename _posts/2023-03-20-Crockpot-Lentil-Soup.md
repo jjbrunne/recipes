@@ -21,7 +21,7 @@ Ingredients
 - 1 15 oz can crushed tomatoes
 - 4 C low-sodium vegetable broth
 - *Parmesan rind optional*
-- 1 Tbsp red wine vinegar
+- ~~1 Tbsp red wine vinegar~~ too tangy, try skipping
 - .5 tsp granulated sugar
 - parmesan for serving (optional)
 - chopped parsley for garnish (optional)
