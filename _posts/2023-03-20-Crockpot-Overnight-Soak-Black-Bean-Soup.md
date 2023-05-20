@@ -32,3 +32,4 @@ Instructions
 	1. Leave it as is, or
 	2. Process or blend half the soup until smooth and return it to the pot, or
 	3. Process or blend all of the soup until smooth.
+
