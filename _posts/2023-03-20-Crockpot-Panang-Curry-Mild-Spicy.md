@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Crockpot Panang Currey (Mildly Spicy)"
+title:  "Crockpot Panang Curry (Mildly Spicy)"
 date:   2023-03-20
 categories: recipes
 ---
