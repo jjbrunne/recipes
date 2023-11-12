@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brussel Sprout Banh MI with Spicy Mango Sauce
+title: Brussel Sprout Banh Mi with Spicy Mango Sauce
 date: 2023-11-12
 categories: recipes
 ---
