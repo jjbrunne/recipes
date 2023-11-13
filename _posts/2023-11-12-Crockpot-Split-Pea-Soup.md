@@ -17,7 +17,7 @@ Ingredients
 - 1 quart vegetable broth, or chicken stock
 - 2 cups water
 - Optional: 1 ham bone or 2 cups diced ham
-- 
+
 To add at the end
 - 1 tablespoon red wine vinegar , or fresh lemon juice
  
