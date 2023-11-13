@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Instant Pot Green Grean Beans
+title: Instant Pot Greek Green Beans
 date: 2023-11-12
 categories: recipes
 ---
