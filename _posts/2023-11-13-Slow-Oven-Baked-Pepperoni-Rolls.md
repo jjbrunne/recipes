@@ -77,6 +77,7 @@ Instructions
 * Cut the rolls in half and add more cheese to the hole if you need to.  You can then place it in the microwave for a few seconds to melt it.
 
 **Serve**
+
 Serve with dips!
 
 Source: https://sweetthingsbylizzie.com/breads/homestyle-pepperoni-rolls

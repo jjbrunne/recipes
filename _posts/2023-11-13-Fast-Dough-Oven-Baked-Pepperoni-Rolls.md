@@ -42,6 +42,7 @@ Instructions
 * Bake on a baking sheet lined with parchment paper for 12-15 minutes at 425F or until done.
 
 **Serve**
+
 Serve with dips!
 
 Source: https://sweetthingsbylizzie.com/breads/homestyle-pepperoni-rolls
