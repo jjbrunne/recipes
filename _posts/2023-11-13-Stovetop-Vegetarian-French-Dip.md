@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Vegetarian French Dip
-date: 2023-11-12
+title: Stovetop Vegetarian French Dip
+date: 2023-11-13
 categories: recipes
 ---
 Ingredients
