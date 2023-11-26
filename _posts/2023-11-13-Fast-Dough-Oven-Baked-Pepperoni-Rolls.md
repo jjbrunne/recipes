@@ -15,7 +15,7 @@ categories: recipes
 Ingredients
 --
 * 1 batch of  Pizza Dough (see separate recipe)
-* 1/2 c. marinara sauce some for the rolls, some for dipping
+* 1/2 c. pizza sauce some for the rolls, some extra for dipping (shayne liked Muir Glen canned pizza sauce)
 * 8 oz. pepperoni slices (or more if you like)
 * 1 c. mozzarella cheese shredded (or more if you like)
 * 6 T. parmesan cheese
