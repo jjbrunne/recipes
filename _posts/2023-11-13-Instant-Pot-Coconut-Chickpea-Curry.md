@@ -20,9 +20,9 @@ Ingredients
 
 **Spices**
 * 1/2 teaspoon ground turmeric
-* 1 teaspoon kashmiri red chili powder, mild or paprika, adjust to taste
+* 1/2 teaspoon kashmiri red chili powder, mild or paprika, adjust to taste
 * 1 teaspoon ground cumin
-* 1 teaspoon garam masala
+* 1/2 teaspoon garam masala
 * 1 teaspoon salt
 
 **To Finish**

@@ -6,18 +6,18 @@ categories: recipes
 ---
 Ingredients
 --
- - 1 tbsp olive oil
- - 1 onion, diced
- - 2 ribs celery, diced
- - 2 large carrots, diced
- - 4 cloves garlic, minced
- - 6 cups vegetable stock
- - 1 28 ounce can diced tomatoes
- - ¾ cup dry lentils, rinsed and drained
- - ¾ cup pearl barley
- - ½ tsp dried rosemary
- - ½ tsp dried oregano
- - ¼ tsp ground black pepper
+  * 1 tbsp olive oil
+  * 1 onion, diced
+  * 2 ribs celery, diced
+  * 2 large carrots, diced
+  * 4 cloves garlic, minced
+  * 6 cups vegetable stock
+  * 1 28 ounce can diced tomatoes
+  * ¾ cup dry lentils, rinsed and drained
+  * ¾ cup pearl barley
+  * ½ tsp dried rosemary
+  * ½ tsp dried oregano
+  * ¼ tsp ground black pepper
 
 Instructions
 --
