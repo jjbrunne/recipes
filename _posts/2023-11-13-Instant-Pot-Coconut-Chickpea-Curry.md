@@ -16,7 +16,7 @@ Ingredients
 * chickpeas, either:
 	* 2 14 oz cans
 	* 1 cup dried, soaked in water for 4 hours or overnight
-* 1 1/2 cup water
+* 1 1/4 cup water
 
 **Spices**
 * 1/2 teaspoon ground turmeric
