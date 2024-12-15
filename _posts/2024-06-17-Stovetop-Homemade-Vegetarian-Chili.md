@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Homemade Vegetarian Chili
+title: Stovetop Vegetarian Chili
 date: 2024-06-17
 categories: recipes
 ---
