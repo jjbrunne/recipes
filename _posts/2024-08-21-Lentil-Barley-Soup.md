@@ -28,3 +28,8 @@ Instructions
 5. Bring to the boil, then reduce the heat. Cover and simmer for 55 minutes.
 6. Season with salt and black pepper if necessary.
 7. Serve with French bread.
+
+
+Original
+--
+https://realfoodwholelife.com/recipes/crockpot-vegetarian-chili/
