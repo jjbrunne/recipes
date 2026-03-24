@@ -6,4 +6,9 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-paginate"
   gem "jemoji"
+  gem "webrick"
+  gem "logger"
+  gem "csv"
+  gem "base64"
+  gem "bigdecimal"
 end
